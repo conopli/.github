@@ -14,6 +14,10 @@
 - 현재는 TJ만 지원하고 있으며, 추후 KY(금영)도 추가될 예정입니다.
 - 1차적인 개발을 마치고 빌드 과정 진행 중에 있으며, 빌드 테스트까지 모두 마치게 되면 추가적인 기능 개발 및 앱 배포단계를 진행할 예정입니다.
 
+## 각 파트별 레포지토리 바로가기
+- [Client](https://github.com/conopli/conopli-client)
+- [Server](https://github.com/conopli/conopli-web-server)
+
 ## 주요 기능 소개
 
 ### 나만의 플레이리스트
